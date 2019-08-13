@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/tindev_frontend/static/css/main.4660cd6d.chunk.css",
+    "main.js": "/tindev_frontend/static/js/main.68ebb0bd.chunk.js",
+    "main.js.map": "/tindev_frontend/static/js/main.68ebb0bd.chunk.js.map",
+    "runtime~main.js": "/tindev_frontend/static/js/runtime~main.6c8bd192.js",
+    "runtime~main.js.map": "/tindev_frontend/static/js/runtime~main.6c8bd192.js.map",
+    "static/js/2.dd2f9804.chunk.js": "/tindev_frontend/static/js/2.dd2f9804.chunk.js",
+    "static/js/2.dd2f9804.chunk.js.map": "/tindev_frontend/static/js/2.dd2f9804.chunk.js.map",
+    "index.html": "/tindev_frontend/index.html",
+    "precache-manifest.896c04b04ff810efeeb20b20aacb2cb9.js": "/tindev_frontend/precache-manifest.896c04b04ff810efeeb20b20aacb2cb9.js",
+    "service-worker.js": "/tindev_frontend/service-worker.js",
+    "static/css/main.4660cd6d.chunk.css.map": "/tindev_frontend/static/css/main.4660cd6d.chunk.css.map",
+    "static/media/dislike.svg": "/tindev_frontend/static/media/dislike.d4ec34e8.svg",
+    "static/media/like.svg": "/tindev_frontend/static/media/like.542059a4.svg",
+    "static/media/logo.svg": "/tindev_frontend/static/media/logo.6a01ceef.svg"
+  }
+}
